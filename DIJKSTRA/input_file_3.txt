@@ -1,0 +1,12 @@
+5 10 D
+S T 10
+S Y 5
+T Y 2
+Y T 3
+Y Z 2
+Z X 6
+X Z 4
+T X 1
+Y X 9
+Z S 7
+S
